@@ -1,6 +1,6 @@
 **geonode_shapekeys**
 ==============
-add shapekeys to override rigs, copied from blender repository for personal use (https://developer.blender.org/diffusion/BSTS/browse/master/geonode-shapekeys/geonode_shapekeys/) original licence is cc-by
+add shapekeys to override rigs, copied from blender repository for personal use (https://developer.blender.org/diffusion/BSTS/browse/master/geonode-shapekeys/geonode_shapekeys/) original licence is cc-by in blender cloud (https://studio.blender.org/films/charge/3aee478ba5e53a/?asset=6243)
 
 
 description from blender cloud:
